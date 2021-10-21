@@ -1,0 +1,3 @@
+# github.com/miljimo/logger v0.0.0-20211021192939-1ed922841155
+## explicit
+github.com/miljimo/logger/watcher
